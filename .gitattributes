@@ -1,2 +1,6 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
